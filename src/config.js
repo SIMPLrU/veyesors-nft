@@ -15,12 +15,9 @@ const layerConfigurations = [
     growEditionSizeTo: 10,
     layersOrder: [
       { name: "Background" },
-      { name: "Eyeball" },
-      { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
-      { name: "Bottom lid" },
-      { name: "Top lid" },
+      { name: "03_face" },
+      { name: "02_hair" },
+      { name: "01_eyes" },
     ],
   },
 ];
@@ -31,8 +28,8 @@ const debugLogs = false;
 
 // file size
 const format = {
-  width: 512,
-  height: 512,
+  width: 517,
+  height: 517,
 };
 
 const background = {
