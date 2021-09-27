@@ -1,0 +1,24 @@
+{
+  "name": "simplru_generative_art",
+  "version": "0.1.1",
+  "description": "A tool to create generative art",
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "layers/**/*",
+      "node_modules/**/*",
+      "src/**/*"
+    ]
+  },
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SIMPLrU",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "sha1": "^1.1.1"
+  }
+}
