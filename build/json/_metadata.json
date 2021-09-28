@@ -1,269 +1,269 @@
 [
   {
-    "dna": "c23c6f799edcba3b8ff7e00c09346cf0fb522424",
+    "dna": "0fc1892c834f9c2cd02e31670e9ad55b5f8562cb",
     "name": "#1",
     "description": "Knowledge as Currency",
     "image": "ipfs://NewUriToReplace/1.png",
     "edition": 1,
-    "date": 1632766532239,
+    "date": 1632814583345,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Black"
       },
       {
-        "trait_type": "03_face",
-        "value": "00_russ"
+        "trait_type": "veyesors-face",
+        "value": "00_boomer"
       },
       {
-        "trait_type": "02_hair",
+        "trait_type": "veyesors-hair",
         "value": "00_bones"
       },
       {
-        "trait_type": "01_eyes",
-        "value": "00_boomer"
+        "trait_type": "veyesors-eyes",
+        "value": "00_fuzz"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "14e39544ebfdc9db435cdb47cd81de403e951c5d",
+    "dna": "553abf04cba0cbc2a055c225b6183edb7fffbc12",
     "name": "#2",
     "description": "Knowledge as Currency",
     "image": "ipfs://NewUriToReplace/2.png",
     "edition": 2,
-    "date": 1632766532450,
+    "date": 1632814583584,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Black"
       },
       {
-        "trait_type": "03_face",
-        "value": "00_fuzz"
+        "trait_type": "veyesors-face",
+        "value": "00_bones"
       },
       {
-        "trait_type": "02_hair",
-        "value": "00_fuzz"
+        "trait_type": "veyesors-hair",
+        "value": "00_bones"
       },
       {
-        "trait_type": "01_eyes",
-        "value": "00_fuzz"
+        "trait_type": "veyesors-eyes",
+        "value": "00_rus"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "c7b2f952df6394982f9cf6ec734a9c4b414adc2c",
+    "dna": "e85426776d6ed61807680f1beb3700989ccc7794",
     "name": "#3",
     "description": "Knowledge as Currency",
     "image": "ipfs://NewUriToReplace/3.png",
     "edition": 3,
-    "date": 1632766532661,
+    "date": 1632814583861,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Black"
       },
       {
-        "trait_type": "03_face",
+        "trait_type": "veyesors-face",
+        "value": "00_russ"
+      },
+      {
+        "trait_type": "veyesors-hair",
         "value": "00_bones"
       },
       {
-        "trait_type": "02_hair",
+        "trait_type": "veyesors-eyes",
         "value": "00_fuzz"
-      },
-      {
-        "trait_type": "01_eyes",
-        "value": "00_rus"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "4b1fc658959aacc7db673535a9628bf16c4b7538",
+    "dna": "1b03703834720b9c4d04bf4d8187811afd3d9dc7",
     "name": "#4",
     "description": "Knowledge as Currency",
     "image": "ipfs://NewUriToReplace/4.png",
     "edition": 4,
-    "date": 1632766532950,
+    "date": 1632814584077,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Black"
       },
       {
-        "trait_type": "03_face",
-        "value": "00_fuzz"
+        "trait_type": "veyesors-face",
+        "value": "00_bones"
       },
       {
-        "trait_type": "02_hair",
+        "trait_type": "veyesors-hair",
         "value": "00_boomer"
       },
       {
-        "trait_type": "01_eyes",
-        "value": "00_fuzz"
+        "trait_type": "veyesors-eyes",
+        "value": "00_bones"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "8775f512152a57dc9e70fef9e50b4543ce93985a",
+    "dna": "a5f67792e44f7a2d77e648c19308295791115da2",
     "name": "#5",
     "description": "Knowledge as Currency",
     "image": "ipfs://NewUriToReplace/5.png",
     "edition": 5,
-    "date": 1632766533085,
+    "date": 1632814584382,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Black"
       },
       {
-        "trait_type": "03_face",
-        "value": "00_boomer"
-      },
-      {
-        "trait_type": "02_hair",
+        "trait_type": "veyesors-face",
         "value": "00_fuzz"
       },
       {
-        "trait_type": "01_eyes",
-        "value": "00_boomer"
+        "trait_type": "veyesors-hair",
+        "value": "00_fuzz"
+      },
+      {
+        "trait_type": "veyesors-eyes",
+        "value": "00_fuzz"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "2935d5493875a48fe5ef1a70ffdfdb0e4a378f19",
+    "dna": "8bf677ad42c3e1f27cbaa497c21bf99069a8b6ee",
     "name": "#6",
     "description": "Knowledge as Currency",
     "image": "ipfs://NewUriToReplace/6.png",
     "edition": 6,
-    "date": 1632766533358,
+    "date": 1632814584592,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Black"
       },
       {
-        "trait_type": "03_face",
+        "trait_type": "veyesors-face",
+        "value": "00_bones"
+      },
+      {
+        "trait_type": "veyesors-hair",
         "value": "00_fuzz"
       },
       {
-        "trait_type": "02_hair",
-        "value": "00_boomer"
-      },
-      {
-        "trait_type": "01_eyes",
-        "value": "00_bones"
+        "trait_type": "veyesors-eyes",
+        "value": "00_fuzz"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "b707d72d1177e2776c43d0def49267963eb22970",
+    "dna": "c06cca64cf9e85698730add8cf1e063cadda42e8",
     "name": "#7",
     "description": "Knowledge as Currency",
     "image": "ipfs://NewUriToReplace/7.png",
     "edition": 7,
-    "date": 1632766533562,
+    "date": 1632814584886,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Black"
       },
       {
-        "trait_type": "03_face",
-        "value": "00_bones"
-      },
-      {
-        "trait_type": "02_hair",
-        "value": "00_bones"
-      },
-      {
-        "trait_type": "01_eyes",
+        "trait_type": "veyesors-face",
         "value": "00_fuzz"
+      },
+      {
+        "trait_type": "veyesors-hair",
+        "value": "00_fuzz"
+      },
+      {
+        "trait_type": "veyesors-eyes",
+        "value": "00_rus"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "289b4e9e501a20e26f5f8879626bd759800bb64d",
+    "dna": "998878a96a14ee68b1b8995eac943a503ce818ec",
     "name": "#8",
     "description": "Knowledge as Currency",
     "image": "ipfs://NewUriToReplace/8.png",
     "edition": 8,
-    "date": 1632766533960,
+    "date": 1632814585069,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Black"
       },
       {
-        "trait_type": "03_face",
+        "trait_type": "veyesors-face",
         "value": "00_boomer"
       },
       {
-        "trait_type": "02_hair",
-        "value": "00_rus"
+        "trait_type": "veyesors-hair",
+        "value": "00_russ"
       },
       {
-        "trait_type": "01_eyes",
+        "trait_type": "veyesors-eyes",
         "value": "00_rus"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "39e80392e9336f58cd46a179cc9cd51de9a1d521",
+    "dna": "8c94657df2d134a3183dc44ae051b3b86bcff5d0",
     "name": "#9",
     "description": "Knowledge as Currency",
     "image": "ipfs://NewUriToReplace/9.png",
     "edition": 9,
-    "date": 1632766534342,
+    "date": 1632814585378,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Black"
       },
       {
-        "trait_type": "03_face",
+        "trait_type": "veyesors-face",
+        "value": "00_fuzz"
+      },
+      {
+        "trait_type": "veyesors-hair",
         "value": "00_bones"
       },
       {
-        "trait_type": "02_hair",
-        "value": "00_bones"
-      },
-      {
-        "trait_type": "01_eyes",
-        "value": "00_bones"
+        "trait_type": "veyesors-eyes",
+        "value": "00_boomer"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "18152e03e67023825283c5217fbfc1afcc7eb7b5",
+    "dna": "56bc916e86c1f524544ad470239251c4478cea00",
     "name": "#10",
     "description": "Knowledge as Currency",
     "image": "ipfs://NewUriToReplace/10.png",
     "edition": 10,
-    "date": 1632766534641,
+    "date": 1632814585663,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Black"
       },
       {
-        "trait_type": "03_face",
-        "value": "00_russ"
+        "trait_type": "veyesors-face",
+        "value": "00_fuzz"
       },
       {
-        "trait_type": "02_hair",
-        "value": "00_rus"
+        "trait_type": "veyesors-hair",
+        "value": "00_bones"
       },
       {
-        "trait_type": "01_eyes",
+        "trait_type": "veyesors-eyes",
         "value": "00_fuzz"
       }
     ],
