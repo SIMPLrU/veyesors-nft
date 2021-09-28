@@ -1,10 +1,10 @@
 {
-  "dna": "29944f10f435fd8dd9cbe1e6f01dbc90724286cf",
+  "dna": "0ee2700e575a5651c5a6b91caf28d2c10f189172",
   "name": "#37",
   "description": "Knowledge as Currency",
   "image": "ipfs://NewUriToReplace/37.png",
   "edition": 37,
-  "date": 1632824532613,
+  "date": 1632825699917,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,11 +12,11 @@
     },
     {
       "trait_type": "veyesors-face",
-      "value": "00_boomer"
+      "value": "00_bones"
     },
     {
       "trait_type": "veyesors-hair",
-      "value": "00_boomer"
+      "value": "00_russ"
     },
     {
       "trait_type": "veyesors-eyes",
