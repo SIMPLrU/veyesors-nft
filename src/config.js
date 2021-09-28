@@ -12,7 +12,7 @@ const baseUri = "ipfs://NewUriToReplace";
 // layer configurations - number in collection and attributes
 const layerConfigurations = [
   {
-    growEditionSizeTo: 10,
+    growEditionSizeTo: 42,
     layersOrder: [
       { name: "Background" },
       { name: "veyesors-face" },

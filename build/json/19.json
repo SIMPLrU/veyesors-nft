@@ -1,0 +1,27 @@
+{
+  "dna": "923d8637bd31eeb6a5cafdbc0ca29785b409de9b",
+  "name": "#19",
+  "description": "Knowledge as Currency",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "edition": 19,
+  "date": 1632824528018,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "veyesors-face",
+      "value": "00_boomer"
+    },
+    {
+      "trait_type": "veyesors-hair",
+      "value": "00_bones"
+    },
+    {
+      "trait_type": "veyesors-eyes",
+      "value": "00_boomer"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
