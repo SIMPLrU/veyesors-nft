@@ -6,8 +6,8 @@ const basePath = isLocal ? process.cwd() : path.dirname(process.execPath);
 const { MODE } = require(path.join(basePath, "src/blendMode.js"));
 const description =
   "Knowledge as Currency";
-//baseUri Site
-const baseUri = "ipfs://NewUriToReplace";
+//baseUri Sit
+const baseUri = "https://gateway.pinata.cloud/ipfs/QmWTAuE1bJib1v1eF1RpaWM62UwgEsA2sKQ4pusLmhYyLW";
 
 // layer configurations - number in collection and attributes
 const layerConfigurations = [
